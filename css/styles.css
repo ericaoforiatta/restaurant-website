@@ -1,0 +1,65 @@
+#logo {
+  background-image: url("../images/assets/backgrounds/landing.jpg");
+  width: auto;
+  height: auto;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+#logoimage {
+  align-items: center;
+}
+
+.col-md-3{
+  margin-top: 0px;
+  padding: 0px;
+}
+
+#pp {
+  background-color: #E4E5E7;
+  width: auto;
+  height: auto;
+  margin: 0px;
+  margin-bottom: 0px;
+  padding: 30px;
+  text-align: center;
+}
+
+#pc {
+  background-color: #F15B29;
+  width: auto;
+  height: auto;
+  margin-top: 0px;
+  padding: 20px;
+  text-align: center;
+}
+
+#lunchtime {
+  background-image: url("../images/assets/foodtop/lunch.jpg");
+  
+  margin: none;
+  padding: 40px;
+  color: white;
+  text-align: center;
+}
+
+#breakfasttime {
+  background-image: url("../images/assets/foodtop/breakfast.jpg");
+
+  margin: none;
+  padding: 40px;
+  color: white;
+  text-align: center;
+}
+
+#dinner {
+  background-image: url("../images/assets/foodtop/dinner.jpg");
+
+  margin: none;
+  padding: 40px;
+  color: white;
+  text-align: center;
+}
